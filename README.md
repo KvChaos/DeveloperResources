@@ -42,11 +42,32 @@
 
 ## ExpressJS
 
+* [ExpressJS API Reference](https://expressjs.com/en/4x/api.html)
+* [ExpressJS Guide - Routing](https://expressjs.com/en/guide/routing.html)
+* [ExpressJS Home - Starting point for API References, Guides](https://expressjs.com/)
+
 
 ## Git
 
 * [Git Documentation - Reference](https://git-scm.com/docs)
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model)
 * [Resetting, Checking Out & Reverting](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
+* [URL Parameters and Routing in Express](https://webapplog.com/url-parameters-and-routing-in-express-js/)
 
+
+## HTTP
+
+* [HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
+* [HTTP Methods for Restful Services](https://www.restapitutorial.com/lessons/httpmethods.html)
+
+
+## NPM Packages
+
+* [Lodash](https://lodash.com/docs/4.17.11)
+* [Moment.js Docs](https://momentjs.com/docs/)
+* [Signale (logger)](https://github.com/klaussinani/signale)
+* [node-schedule (cron for Node.js)](https://www.npmjs.com/package/node-schedule)
+* 
+
+## Vue.JS
 
