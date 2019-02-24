@@ -3,6 +3,7 @@
 
 ## JavaScript
 
+* [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/toc.html)
 
 
 
