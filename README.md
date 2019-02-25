@@ -72,7 +72,9 @@
 ## Vue.JS
 
 
+## Other Amazing Lists
 
+* [sindresorhus/awesome-nodejs - Curated list of npm packages](https://github.com/sindresorhus/awesome-nodejs)
 
 
 ## Self-Referencing
