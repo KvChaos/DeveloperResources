@@ -70,7 +70,12 @@
 * 
 
 ## Vue.JS
+* [VueJS.org](https://vuejs.org/)
+* [VueJS 2 Docs](https://vuejs.org/v2/guide/)
 
+### Vuetify
+* [Vuetify Quick Start](https://vuetifyjs.com/en/getting-started/quick-start)
+* [Vuetify on Githhub](https://github.com/vuetifyjs/vuetify)
 
 ## Other Amazing Lists
 
