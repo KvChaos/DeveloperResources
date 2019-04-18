@@ -76,11 +76,11 @@
 * [Vue Point on Medium](https://medium.com/the-vue-point)
 * [30 Days of Vue](https://www.fullstack.io/30-days-of-vue)
 * [VueJs Feed](https://vuejsfeed.com)
-** [VueJS Feed Tutorials](https://vuejsfeed.com/category/Tutorials)
+  * [VueJS Feed Tutorials](https://vuejsfeed.com/category/Tutorials)
 
 ### Vue CLI and Configuration
 * [What you need to know about VUE CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3)
-** [Vue CLI Plugins Referenced in above article](https://www.npmjs.com/search?q=vue-cli-plugin)
+  * [Vue CLI Plugins Referenced in above article](https://www.npmjs.com/search?q=vue-cli-plugin)
 
 ### Vuetify
 * [Vuetify Quick Start](https://vuetifyjs.com/en/getting-started/quick-start)
@@ -89,8 +89,8 @@
 ### Vue ECharts
 * [How to add Charts and Graphis (ECharts)](https://medium.freecodecamp.org/how-to-add-charts-and-graphs-to-a-vue-js-application-29f943a45d09) by Jennifer Bland
 * [vue-echarts main repository](https://github.com/ecomfe/vue-echarts)
-** [API Documentation](https://ecomfe.github.io/echarts-doc/public/en/api.html)
-** [vue-echarts examples](https://ecomfe.github.io/echarts-examples/public/index.html)
+  * [API Documentation](https://ecomfe.github.io/echarts-doc/public/en/api.html)
+  * [vue-echarts examples](https://ecomfe.github.io/echarts-examples/public/index.html)
 
 
 ### Forms in VueJS
