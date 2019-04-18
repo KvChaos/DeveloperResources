@@ -75,6 +75,8 @@
 * [VueJS Articles on Alligator.io](https://alligator.io/vuejs/)
 * [Vue Point on Medium](https://medium.com/the-vue-point)
 * [30 Days of Vue](https://www.fullstack.io/30-days-of-vue)
+* [VueJs Feed](https://vuejsfeed.com)
+** [VueJS Feed Tutorials](https://vuejsfeed.com/category/Tutorials)
 
 ### Vue CLI and Configuration
 * [What you need to know about VUE CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3)
@@ -95,7 +97,8 @@
 * [Vuelidate](https://vuelidate.netlify.com/)
 * [VueJS Tips: Debounce](https://medium.com/vuejs-tips/tip-15-delay-execution-with-debounce-6a93b759bb06)
 
-
+### Vue - Webpack and Heavy Config
+* [Vue-loader](http://vuejs-templates.github.io/webpack/)
 
 
 ## Other Amazing Lists
