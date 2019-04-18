@@ -72,10 +72,31 @@
 ## Vue.JS
 * [VueJS.org](https://vuejs.org/)
 * [VueJS 2 Docs](https://vuejs.org/v2/guide/)
+* [VueJS Articles on Alligator.io](https://alligator.io/vuejs/)
+* [Vue Point on Medium](https://medium.com/the-vue-point)
+* [30 Days of Vue](https://www.fullstack.io/30-days-of-vue)
+
+### Vue CLI and Configuration
+* [What you need to know about VUE CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3)
+** [Vue CLI Plugins Referenced in above article](https://www.npmjs.com/search?q=vue-cli-plugin)
 
 ### Vuetify
 * [Vuetify Quick Start](https://vuetifyjs.com/en/getting-started/quick-start)
 * [Vuetify on Githhub](https://github.com/vuetifyjs/vuetify)
+
+### Vue ECharts
+* [How to add Charts and Graphis (ECharts)](https://medium.freecodecamp.org/how-to-add-charts-and-graphs-to-a-vue-js-application-29f943a45d09) by Jennifer Bland
+* [vue-echarts main repository](https://github.com/ecomfe/vue-echarts)
+** [API Documentation](https://ecomfe.github.io/echarts-doc/public/en/api.html)
+** [vue-echarts examples](https://ecomfe.github.io/echarts-examples/public/index.html)
+
+
+### Forms in VueJS
+* [Vuelidate](https://vuelidate.netlify.com/)
+* [VueJS Tips: Debounce](https://medium.com/vuejs-tips/tip-15-delay-execution-with-debounce-6a93b759bb06)
+
+
+
 
 ## Other Amazing Lists
 
