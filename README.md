@@ -106,6 +106,13 @@
 * [sindresorhus/awesome-nodejs - Curated list of npm packages](https://github.com/sindresorhus/awesome-nodejs)
 
 
+# Online REST Data Resources
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+
+
+
+
+
 ## Self-Referencing
 
 * [https://bit.ly/2SUeyFP](https://bit.ly/2SUeyFP)
